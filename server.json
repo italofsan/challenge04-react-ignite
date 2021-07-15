@@ -4,16 +4,16 @@
       "id": 3,
       "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
+      "price": "26.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     },
     {
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
-      "name": "Teste Massa",
-      "price": "100.00",
-      "description": "Muito caro 007",
-      "available": true,
+      "name": "Teste",
+      "price": "50.00",
+      "description": "Realmente não tô com ideia do que colocar aqui, mas está top",
+      "available": false,
       "id": 4
     }
   ]

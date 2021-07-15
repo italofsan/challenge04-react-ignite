@@ -48,5 +48,3 @@ export function ModalEditFood({
     </Modal>
   );
 }
-
-export default ModalEditFood;
